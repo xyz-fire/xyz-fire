@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xyz-fire.
 - 👀 I’m interested in APIs, Databases, Executors, IDA.
 - 🌱 I’m currently learning Python, LuaU, Javascript.
-- 💞️ I'm want make own internal roblox executor.
-- 💖 Im love cats.
+- 💞️ I want make own Internal Roblox Executor.
+- 💖 I love cats.
