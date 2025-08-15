@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @xyz-fire.
-- 👀 I’m interested in APIs, Databases, Executors, IDA.
-- 🌱 I’m currently learning Python, LuaU, Javascript.
-- 💞️ I want make own Internal Roblox Executor.
-- 💖 I love cats.
+## Hello!
+**Im xyz-cat and I make random stuff on GitHub.**
+**I regularly program in Python, Luau**
+![](https://i.ytimg.com/vi/7u7ek8QyWPI/maxresdefault.jpg)
